@@ -1,3 +1,3 @@
 FROM wurstmeister/zookeeper:latest
 
-EXPOSE 5432
+EXPOSE 2181 22 2888 3888
